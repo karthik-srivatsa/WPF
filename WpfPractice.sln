@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfHome", "WpfHome\WpfHome.csproj", "{B6156C88-CBC4-457F-A877-06B10B7EA7E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutAndGrids", "LayoutAndGrids\LayoutAndGrids.csproj", "{ADDC086C-78D1-4ADF-A0C1-7AD542ADF2E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6156C88-CBC4-457F-A877-06B10B7EA7E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6156C88-CBC4-457F-A877-06B10B7EA7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6156C88-CBC4-457F-A877-06B10B7EA7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6156C88-CBC4-457F-A877-06B10B7EA7E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADDC086C-78D1-4ADF-A0C1-7AD542ADF2E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDC086C-78D1-4ADF-A0C1-7AD542ADF2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDC086C-78D1-4ADF-A0C1-7AD542ADF2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDC086C-78D1-4ADF-A0C1-7AD542ADF2E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0A7D2D4-6456-4E83-B3AB-54AEDEE2093D}
+	EndGlobalSection
+EndGlobal
